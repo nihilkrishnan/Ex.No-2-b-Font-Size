@@ -40,13 +40,13 @@ Step 6:Close the Android project.
 
 
 ## Program:
- 
+ ```C
 /*
 Program to Develop an application that uses Font Size using Android Studio .
 Developed by: KISHORE M
 RegisterNumber: 212221043003
 */
-
+```
 
 ## MainActivity.java:
 ```C
